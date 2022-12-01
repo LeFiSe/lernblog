@@ -57,6 +57,8 @@ Als unsere kurze Mittagspause zu Ende ist, geht der Tag mit einem Theorieteil im
 
 ![](baderegeln-1-.png)
 
+![](bild_reportage_theorie-1-.jpg)
+
 #### Was soll man tun, wenn man eine ertrinkende Person sieht? (Kastentext)
 
 Bevor man ins Wasser springt, um einer ertrinkenden Person zu helfen, sollte man sich seinen eigenen Grenzen und Fähigkeiten bewusst sein. Barbara sagt uns ganz klar: *«Begebt euch nicht selbst in Gefahr, ansonsten müssen 2 Personen gerettet werden“.* Wer keine Ausbildung im Rettungsschwimmen hat, das Wasser zu kalt ist oder die ertrinkende Person wild um sich schlägt, sollte nicht ins Wasser steigen. In diesem Fall hilft man aber, indem man sofort die Polizei anruft. Zur gleichen Zeit sollte versucht werden, am Ufer auf Höhe der Person mitzulaufen, um der Polizei immer den aktuellen Standort melden zu können. Den Standort kann man der Polizei z.B. über die Koordinatenangaben der Rega-App mitteilen. Zudem sollen die weiteren Anweisungen der Polizei befolgt werden.
