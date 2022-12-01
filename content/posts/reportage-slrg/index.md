@@ -8,7 +8,8 @@ image = "screenshot-58-.png"
 +++
 {{<lead>}}
 
-Wie verhindert man Todesfälle im Wasser? Das und noch viel mehr durften wir während eines SLRG-Kurses für Rettungsschwimmer lernen.\
+Wie verhindert man Todesfälle im Wasser? Das und noch viel mehr durften wir während eines SLRG-Kurses für Rettungsschwimmer lernen.
+
 {{</lead>}}
 
 Auf der ganzen Welt ertrinken täglich Menschen im Schwimmbad, im Fluss, im See und im Meer. Hier in der Schweiz haben wir das Glück, dass unsere Wassersicherheit und Unfallprävention sehr stark ausgebaut ist. Doch wer rettet ertrinkende Menschen und setzt sich für die Prävention im Umgang mit Wasser ein? Die Antwort auf diese Frage lautet: Die Schweizerische Lebensrettungs-Gesellschaft, kurz SLRG.
