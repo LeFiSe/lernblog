@@ -8,8 +8,7 @@ image = ""
 +++
 {{<lead>}}
 
-Wie verhindert man Todesfälle im Wasser? Das und noch viel mehr durften wir während eines SLRG-Kurses für Rettungsschwimmer lernen.
-
+Wie verhindert man Todesfälle im Wasser? Das und noch viel mehr durften wir während eines SLRG-Kurses für Rettungsschwimmer lernen.\
 {{</lead>}}
 
 # **Rettung im Wasser**
@@ -40,7 +39,7 @@ Neben diesen zwei finanziellen Stützen, erhält die SLRG auch noch Geld aus Bei
 
 Neben einem BLS-AED-SRC-Zertifikat (ein Kurs, der die **lebensrettenden Maßnahmen aus dem Nothelfer-Kurs repetiert),** muss man für die Teilnahme am Kurs auch noch eine Schwimmprüfung bestehen. Genau damit beginnen wir. In unter 5 Minuten müssen wir vier Längen, also 200 Meter schwimmen. Es kostet uns eine gewisse Überwindung ins Wasser zu steigen, denn das Wetter ist heute nicht ideal. Es ist bewölkt und kühl, zwischendurch regnet es sogar. Die Schwimmprüfung bestehen wir nach einem kurzen Aufwärmen aber trotzdem und da wir nun für den Rest des Kurses zugelassen sind, beginnen wir auch schon mit dem ersten Praxisteil, dem Tauchen. Wir beginnen mit verschiedenen Tauchübungen und Barbara erklärt uns eine geeignete Atemtechnik, um möglichst lange tauchen zu können. Barbara sagt uns: «Die allgemein bekannte Atemtechnik Hyperventilieren, ist sehr gefährlich, denn beim Hyperventilieren wird der CO2 Gehalt im Blut gesenkt und damit der Reflex, Luft zu schnappen, unterdrückt. Es kann passieren, dass man dadurch bewusstlos wird.» Zudem sollen wir vor dem Eintauchen unsere Lungen nicht komplett füllen, weil wir auf diese Weise die Luft weniger lange anhalten können. Mit Barbaras Tipps und ein bisschen Übung können wir auch diesen Teil nach 30 anstrengenden Minuten mit einer Prüfung abschliessen. Bei dieser Prüfung müssen wir 20 Meter weit tauchen und anschliessend 5 Ringe auf einer Fläche von 15 m2 einsammeln. Auch diese Prüfung bestehen zum Glück alle Teilnehmer*innen.
 
-##### **Tödliche Schwimmunfälle in der Schweiz:**
+## Tödliche Schwimmunfälle in der Schweiz:
 
 In der Schweiz ertrinken gemäß Statistiken der SLRG pro Jahr durchschnittlich 45 Personen. Zu einem großen Teil passieren Todesfälle in Seen und Flüssen. Einerseits sind Seen und Fließgewässer meistens unbewacht, andererseits werden sie auch sehr oft unterschätzt. Unterschätz werden die Wassertemperaturen, denn schon ab einer Temperatur von 15°C kann es schnell zu Krämpfen oder sogar Bewusstlosigkeit kommen. Andererseits werden auch Strömungen in Flüssen oder Seen häufig unterschätzt. In der Schweiz ertrinken hauptsächlich Männer. Barbara erklärt uns, dass Männer sich häufiger überschätzen und auch häufiger unter dem Konsum von Alkohol oder Drogen baden gehen. Obwohl man in den Medien immer wieder hört, dass viele Touristen oder Migranten ertrinken, machen diese nur 14% der ertrinkenden Menschen in der Schweiz aus. Meistens ertrinken Schweizer, welche die Gewässer zwar seit ihrer Kindheit kennen, sich jedoch überschätzen und sich unnötig in Gefahr bringen. Im Wasser sterben aber nicht nur Erwachsene, sondern auch Kleinkinder, aufgrund unzureichender Beaufsichtigung. Ertrinken bleibt auch im Jahr 2021 die zweithäufigste Unfall-Todesursache bei Kindern. Zu den vielen tödlichen Ertrinkungsunfällen kommen noch zahlreiche Fälle von Beinahe-Ertrinken hinzu, die bei Kindern und Erwachsenen schwerwiegende Auswirkungen auf das weitere Leben haben können.
 
@@ -58,11 +57,13 @@ Bevor wir den Mittag geniessen können, kombinieren wir beide Kursteile und schl
 
 In der Mittagspause picknicken wir gemeinsam mit den anderen Teilnehmer*innen und lernen uns besser kennen. Während eines Gesprächs erzählt uns Barbara, wie sie bereits einmal im Urlaub in Zypern jemanden retten musste. Sie sagt: „Das Wasser wird unterschätzt, vor allem die offenen Gewässer“.  Neben der Rettung ist das Erkennen eines Notfalls ein schwieriger Teil. In Zypern habe sie lange gebraucht, bis sie begriffen habe, dass die Person in Schwierigkeiten stecke. Schlussendlich sei es ihr jedoch gelungen, die Person sicher an Land zu bringen.
 
-Zitatausriss: „*Das Wasser wird unterschätzt, vor allem die offenen Gewässer“ (Barbara von Steiger, Rettungsschwimmerin)*
+> „*Das Wasser wird unterschätzt, vor allem die offenen Gewässer“* 
+>
+> *Barbara von Steiger, Rettungsschwimmerin*
 
 ## Aufsicht, Prävention und Fallbeispiel:
 
-Als unsere kurze Mittagspause zu Ende ist, geht der Tag mit einem Theorieteil im Trockenen weiter. Barbara erzählt uns, was man als Aufsichtsperson am Wasser alles beachten muss. Wir sind erstaunt über wie viele Dinge, wie die Infrastruktur der Badi, die Schwimmkenntnisse, Allergien oder Krankheiten der Schüler, man sich im Voraus informieren muss. Zudem lernen wir, was alles beachtet werden muss, wenn ein Unfall im Wasser passiert. Dazu gehört z.B. die Koordination zwischen Betreuungspersonen, aber auch, dass Gaffer vom Unfall ferngehalten werden können, indem eine beistehende Person gebeten wird ein Badetuch aufzuspannen. Barbara sagt uns auch, dass die meisten Unfälle durch unnötige Missachtung der elementarsten Baderegeln entstehen. Die Regeln klingen banal: „Spring nicht in trübes Wasser, geh nicht überhitzt baden, konsumiere keine Drogen während dem Baden, lass Kleinkinder nie allein baden.“ Doch obwohl diese Baderegeln den meisten Menschen bekannt sind, werden sie oft gerade von jungen Leuten nicht beachtet. Deshalb hat die SLRG eine Kampagne für junge Erwachsene namens “Save your Friends” lanciert.
+Als unsere kurze Mittagspause zu Ende ist, geht der Tag mit einem Theorieteil im Trockenen weiter. Barbara erzählt uns, was man als Aufsichtsperson am Wasser alles beachten muss. Wir sind erstaunt über wie viele Dinge, wie die Infrastruktur der Badi, die Schwimmkenntnisse, Allergien oder Krankheiten der Schüler, man sich im Voraus informieren muss. Zudem lernen wir, was alles beachtet werden muss, wenn ein Unfall im Wasser passiert. Dazu gehört z.B. die Koordination zwischen Betreuungspersonen, aber auch, dass Gaffer vom Unfall ferngehalten werden können, indem eine beistehende Person gebeten wird ein Badetuch aufzuspannen. Barbara sagt uns auch, dass die meisten Unfälle durch unnötige Missachtung der elementarsten Baderegeln entstehen. Die Regeln klingen banal: „Spring nicht in trübes Wasser, geh nicht überhitzt baden, konsumiere keine Drogen während dem Baden, lass Kleinkinder nie allein baden.“ Doch obwohl diese Baderegeln den meisten Menschen bekannt sind, werden sie oft gerade von jungen Leuten nicht beachtet. Deshalb hat die SLRG eine Kampagne für junge Erwachsene namens “[Save your Friends](https://www.slrg.ch/de/mitmachen/spenden)” lanciert.
 
 ![Baderegeln SLRG; Quelle: SLRG-Homepage](baderegeln-1-.png)
 
@@ -74,7 +75,9 @@ Bevor man ins Wasser springt, um einer ertrinkenden Person zu helfen, sollte man
 
 {{<box>}}
 
-Zitatausriss: «Begebt euch nicht selbst in Gefahr» *(Barbara von Steiger, Rettungsschwimmerin)*
+> «Begebt euch nicht selbst in Gefahr» 
+>
+> *Barbara von Steiger, Rettungsschwimmerin*
 
 \
 Als zweitletzten Teil unseres Kurses repetieren wir die Erste-Hilfe Maßnahmen in Bezug auf Wasser. Dabei lernen wir, dass eine bewusstlose Person immer vom Wasser weggedreht werden muss, weil der Anblick von Wasser beim Aufwachen Panik verursachen kann. Zudem üben wir die korrekte Anwendung eines Spineboards. Es dient dazu eine Person wirbelsäulenschonend aus dem Wasser zu bergen. Die verunfallte Person wird auf das schwimmende Spineboard platziert und mit Bändern festgebunden. Anschließend hebt oder zieht der Rettungsschwimmer die Person vorsichtig aus dem Wasser. Während dieser Übung merken wir, dass es langsam kühler wird und sich der Tag dem Ende zuneigt. Um alles Gelernte nochmals zu repetieren, hat Barbara ein Fallbeispiel für uns vorbereitet. In dieser Simulation ist die ganze Gruppe körperlich und geistig sehr gefordert. Wir erhalten alle eine Rolle wie z.B. Bademeister, Gaffer oder Opfer zugewiesen. Damit spielen wir das Szenario eines ertrinkenden Kindes nach. Alle Teilnehmer sind sehr engagiert, vor allem die verzweifelte Mutter, die ihr Kind nicht loslassen will und somit den Bademeistern die Arbeit erschwert. Nachdem wir auch diesen Teil als Gruppe gemeinsam beendet haben, verabschieden wir uns erschöpft von den anderen Teilnehmern und danken Barbara für den informativen, lehrreichen und anstrengenden Tag.
