@@ -4,7 +4,7 @@ date = "2022-12-01"
 draft = false
 pinned = false
 tags = ["Reportage"]
-image = "logo-slrg.-kleinpng.png"
+image = "screenshot-58-.png"
 +++
 {{<lead>}}
 
