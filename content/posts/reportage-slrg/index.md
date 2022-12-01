@@ -21,7 +21,7 @@ Auf der ganzen Welt ertrinken täglich Menschen im Schwimmbad, im Fluss, im See 
 
 An einem Sonntagmorgen um 8:00 treffen wir (Laurent Schenk und Léon Sermet) uns vor dem Schwimmbad Worb. Als wir herausfinden, dass sich der Treffpunkt für unseren Kurs im Innern des Bades und nicht bei der Eingangstür befindet, gehen wir ins Bad hinein. Wir werden von Barbara von Steiger begrüsst. Barbara bezeichnet sich selbst als Wasserratte. Sie ist schon lange bei der SLRG und hat sehr viel Erfahrung in ihrer Tätigkeit. Barbara ist Rettungsschwimmexpertin für Pool, Fluss und See und unterrichtet gerne Personen im Wasser. Nebenbei ist sie auch noch diplomierte Schwimminstruktorin und es ist ihr wichtig, auch jüngere Menschen für die Arbeit der SLRG zu begeistern und die Bevölkerung im Umgang mit Wasser aufzuklären. Deshalb hat sie sich dazu bereiterklärt, uns zusätzliche Informationen über die SLRG in Form eines Interviews zu geben.
 
-![Freibad Worb (11.11.2022) (Bild: Léon Sermet)](bild_reportage_badi_3-2-2-.jpg)
+![Freibad Worb (11.11.2022) (Bild: Léon Sermet)](img_3307.jpg)
 
 Langsam treffen auch die anderen Teilnehmer*innen des Kurses ein und die Gruppe wächst. Mit uns im Kurs sind hauptsächlich Personen, welche sich mit einer Gruppe in unbewachten Schwimmbädern aufhalten möchten oder Interesse am Rettungsschwimmen zeigen. Deshalb nehmen an diesem Kurs auch die unterschiedlichsten Personen teil. Es sind jüngere und ältere Personen dabei, einige Teilnehmer sind Lehrer, andere gehen selbst noch zur Schule. Als alle anderen Teilnehmer eingetroffen sind und die Gruppe vollständig ist, beginnt Barbara den SLRG-Kurs.
 
@@ -43,13 +43,13 @@ Neben einem BLS-AED-SRC-Zertifikat (ein Kurs, der die **lebensrettenden Maßnahm
 
 In der Schweiz ertrinken gemäß Statistiken der SLRG pro Jahr durchschnittlich 45 Personen. Zu einem großen Teil passieren Todesfälle in Seen und Flüssen. Einerseits sind Seen und Fließgewässer meistens unbewacht, andererseits werden sie auch sehr oft unterschätzt. Unterschätz werden die Wassertemperaturen, denn schon ab einer Temperatur von 15°C kann es schnell zu Krämpfen oder sogar Bewusstlosigkeit kommen. Andererseits werden auch Strömungen in Flüssen oder Seen häufig unterschätzt. In der Schweiz ertrinken hauptsächlich Männer. Barbara erklärt uns, dass Männer sich häufiger überschätzen und auch häufiger unter dem Konsum von Alkohol oder Drogen baden gehen. Obwohl man in den Medien immer wieder hört, dass viele Touristen oder Migranten ertrinken, machen diese nur 14% der ertrinkenden Menschen in der Schweiz aus. Meistens ertrinken Schweizer, welche die Gewässer zwar seit ihrer Kindheit kennen, sich jedoch überschätzen und sich unnötig in Gefahr bringen. Im Wasser sterben aber nicht nur Erwachsene, sondern auch Kleinkinder, aufgrund unzureichender Beaufsichtigung. Ertrinken bleibt auch im Jahr 2021 die zweithäufigste Unfall-Todesursache bei Kindern. Zu den vielen tödlichen Ertrinkungsunfällen kommen noch zahlreiche Fälle von Beinahe-Ertrinken hinzu, die bei Kindern und Erwachsenen schwerwiegende Auswirkungen auf das weitere Leben haben können.
 
-![Ertrinkungsstatistik 2021; Quelle: SLRG-Website](ertrinkungsstatistik.png)
+![Ertrinkungsstatistik 2021; Quelle: SLRG-Website](img_3308.png)
 
 ## Wie können wir eine ertrinkende Person aus dem Wasser bergen?
 
 Nachdem wir gelernt haben, wie man zu einer Person abtauchen kann, lernen wir jetzt, wie wir den Patienten sicher an den Beckenrand transportieren können. Dafür teilt uns Barbara in Zweierteams auf. Nun spielt immer eine Person den Patienten und die andere Person den Retter. Barbara erklärt uns, welche Griffe es gibt und wann man sie anwendet. Wir erfahren, dass es unter anderem den Nacken-Stirn Griff gibt. Diesen benutzt man, falls eine Person bewusstlos ist. Wir greifen mit einer Hand unter den Nacken des Patienten und legen die andere auf seine Stirn, um den Kopf über Wasser zu halten. Damit wir vorankommen, müssen wir mit den Beinen kräftig ausschlagen. Dann gibt es noch einen Griff fürs Transportschwimmen, welchen man bei einer ansprechbaren Person anwendet. Der Patient dreht sich auf den Rücken und hält sich an den Schultern des Rettungsschwimmers fest. Der Rettungsschwimmer schwimmt in Brustlage und transportiert die verunfallte Person bis an den Beckenrand.
 
-![Theorieseite Rettungsgriffe (04.09.2022) (Bild: Laurent Schenk)](rettungsgriffe.jpg)
+![Theorieseite Rettungsgriffe (04.09.2022) (Bild: Laurent Schenk)](img_3309.jpg)
 
 Bevor wir den Mittag geniessen können, kombinieren wir beide Kursteile und schliessen den Vormittag mit einer praktischen Prüfung ab. Dabei müssen wir 45 Meter schwimmen, anschliessend 5 Meter zur verunfallten Person tauchen, das Opfer 25 Meter transportieren und dabei das Zeitlimit von 2 Minuten nicht überschreiten. Da wir diesen Kursteil beide erfolgreich abschliessen, dürfen wir in unsere verdiente Mittagspause gehen.
 
@@ -67,13 +67,13 @@ Als unsere kurze Mittagspause zu Ende ist, geht der Tag mit einem Theorieteil im
 
 ![Baderegeln SLRG; Quelle: SLRG-Homepage](baderegeln-1-.png)
 
-![Theorieteil unserer Ausbildung (04.09.2022) (Bild: Léon Sermet)](bild_reportage_theorie-1-.jpg)
+![Theorieteil unserer Ausbildung (04.09.2022) (Bild: Léon Sermet)](img_3310.jpg)
 
 {{<box title="Was soll man tun, wenn man eine ertrinkende Person sieht">}}
 
 Bevor man ins Wasser springt, um einer ertrinkenden Person zu helfen, sollte man sich seinen eigenen Grenzen und Fähigkeiten bewusst sein. Barbara sagt uns ganz klar: *«Begebt euch nicht selbst in Gefahr, ansonsten müssen 2 Personen gerettet werden“.* Wer keine Ausbildung im Rettungsschwimmen hat, das Wasser zu kalt ist oder die ertrinkende Person wild um sich schlägt, sollte nicht ins Wasser steigen. In diesem Fall hilft man aber, indem man sofort die Polizei anruft. Zur gleichen Zeit sollte versucht werden, am Ufer auf Höhe der Person mitzulaufen, um der Polizei immer den aktuellen Standort melden zu können. Den Standort kann man der Polizei z.B. über die Koordinatenangaben der Rega-App mitteilen. Zudem sollen die weiteren Anweisungen der Polizei befolgt werden.
 
-{{<box>}}
+{{</box>}}
 
 > «Begebt euch nicht selbst in Gefahr» 
 >
