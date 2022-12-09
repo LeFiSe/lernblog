@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Léon "
+name = "Léon Sermet"
 image = ""
 email = "leon.sermet@mygymer.ch"
 +++
