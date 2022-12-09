@@ -10,4 +10,4 @@ description = ""
 
 leon.sermet@mygymer.ch
 
-Student
+Student at Gymnasium Kirchenfeld
