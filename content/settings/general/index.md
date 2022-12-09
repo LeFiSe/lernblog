@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Léon"
-description = "..."
+title = "Léon Sermet"
+description = " "
 footerLeft = ""
 footerRight = "[](/tags/)"
 +++
