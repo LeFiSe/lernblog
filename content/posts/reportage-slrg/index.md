@@ -3,12 +3,14 @@ title = "Rettung im Wasser"
 date = "2022-12-01"
 draft = false
 pinned = false
-tags = ["Reportage"]
+tags = ["Reportage", "Deutsch"]
 image = "screenshot-58-.png"
 +++
 {{<lead>}}
 
-Wie verhindert man Todesfälle im Wasser? Das und noch viel mehr durften wir während eines SLRG-Kurses für Rettungsschwimmer lernen.
+Wie verhindert man Todesfälle im Wasser? Das und noch viel mehr durften wir während eines SLRG-Kurses für Rettungsschwimmer lernen. 
+
+Eine Reportage von Laurent Schenk und Léon Sermet.
 
 {{</lead>}}
 
