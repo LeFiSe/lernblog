@@ -6,7 +6,7 @@ description = ""
 +++
 ![](/img/default-author.jpg)
 
-## Léon
+## Léon Sermet
 
 leon.sermet@mygymer.ch
 
