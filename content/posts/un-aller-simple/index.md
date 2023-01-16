@@ -8,14 +8,12 @@ image = "un-aller-simple-reclam-philipp.jpeg"
 +++
 {{<lead>}}
 
-Dans ce blog, nous avons écrit sur le livre "un aller simple" \
+Dans ce blog, nous avons écrit sur le livre "un aller simple".l\
 {{</lead>}}
 
 
 
 {{<box title="Auteur">}}
-
-### ***Auteur*** 
 
 1. L’auteur de ce livre est Didier van Cauwelaert.  
 2. Il est né à Nice en 1960. 
