@@ -22,15 +22,15 @@ Il est né à Nice en 1960. 
 
 Il a commencé à écrire à l'âge de 9 ans. 
 
-Il a gagné le Prix Goncourt pour “Un aller simple” 
+Il a gagné le Prix Goncourt pour “Un aller simple”.
 
-Le livre a été filmé par Heynemann 
+Le livre a été filmé par Heynemann.
 
 En plus des romans, il a écrit des pièces de théâtre, des scénarios et des BD. 
 
-Il avait joué comme acteur dans une pièce de Sartre 
+Il avait joué comme acteur dans une pièce de Sartre.
 
-Ses livres ont déjà été traduits dans plus de 20 langues 
+Ses livres ont déjà été traduits dans plus de 20 langues.
 
 {{</box>}}
 
