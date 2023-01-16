@@ -1,7 +1,7 @@
 +++
 title = "Un aller simple"
 date = "2023-01-09"
-draft = true
+draft = false
 pinned = false
 tags = ["französisch", "lektüre", "francophonie", "DidierVanCauwelaert", "UnAllerSimple"]
 image = "un-aller-simple-reclam-philipp.jpeg"
