@@ -11,6 +11,10 @@ image = "un-aller-simple-reclam-philipp.jpeg"
 Dans ce blog, nous avons écrit sur le livre "un aller simple" \
 {{</lead>}}
 
+
+
+{{<box title="Auteur">}}
+
 ### ***Auteur*** 
 
 1. L’auteur de ce livre est Didier van Cauwelaert.  
@@ -21,6 +25,8 @@ Dans ce blog, nous avons écrit sur le livre "un aller simple" \
 6. En plus des romans, il a écrit des pièces de théâtre, des scénarios et des BD. 
 7. Il avait joué comme acteur dans une pièce de Sartre 
 8. Ses livres ont déjà été traduits dans plus de 20 langues 
+
+{{</box>}}
 
 
 
