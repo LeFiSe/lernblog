@@ -42,9 +42,8 @@ La situation devient de plus en plus instable et se dégrade à tel point qu'Azi
 
 ### ***Citation*** 
 
-« Alors là, j'ai dit: pardon. Je veux bien être un exemple, mais j'ai fait ma vie comme étranger en France; je ne vais pas la recommencer comme étranger dans un pays où je serai le seul à savoir que je ne suis pas chez moi. » 
-
- (P. 43)  
+> « Alors là, j'ai dit: pardon. Je veux bien être un exemple, mais j'ai fait ma vie comme étranger en France; je ne vais pas la recommencer comme étranger dans un pays où je serai le seul à savoir que je ne suis pas chez moi. » \
+> (P. 43)  
 
 Le livre "un aller simple" traite d'un sujet d'actualité. Aziz, le personnage principal, n'a pas connaît de ses origines. La difficulté de trouver une identité en tant que migrant. Aziz est expulsé vers un autre pays, car il n'a pas d'autorisation de séjour. A la page 43, lignes 6 à 10, Aziz dit qu'il ne veut pas recommencer en tant qu'étranger dans un autre pays. Les immigrants sont simplement expulsés s'ils n'ont pas de papier officiel de l'endroit où ils ont grandi. Il est difficile pour un étranger de se construire une vie dans un nouveau pays. 
 
@@ -52,9 +51,8 @@ Le livre "un aller simple" traite d'un sujet d'actualité. Aziz, le personnage p
 
 ### ***Extrait*** 
 
-« Avant-hier matin, je prenais tranquillement l’apéritif de mes fiançailles, et aujourd’hui j’étais le clandestin-témoin, l’expulsé modèle qui volait vers le pays de ses faux papiers, en compagnie d’un homme qui ne comprenait pas pourquoi sa femme ne l’aimait plus. On nous avait choisis au hasard, l’un pour l’autre, et pourtant on se ressemblait. C’était un peu notre revanche. » 
-
-(p.75) 
+> « Avant-hier matin, je prenais tranquillement l’apéritif de mes fiançailles, et aujourd’hui j’étais le clandestin-témoin, l’expulsé modèle qui volait vers le pays de ses faux papiers, en compagnie d’un homme qui ne comprenait pas pourquoi sa femme ne l’aimait plus. On nous avait choisis au hasard, l’un pour l’autre, et pourtant on se ressemblait. C’était un peu notre revanche. » \
+> (p.75) 
 
 
 
