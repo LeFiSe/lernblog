@@ -8,7 +8,7 @@ image = "un-aller-simple-reclam-philipp.jpeg"
 +++
 {{<lead>}}
 
-Dans ce blog, nous avons écrit sur le livre "un aller simple".
+Dans ce blog, nous avons écrit sur le livre "Un aller simple".
 
 {{</lead>}}
 
